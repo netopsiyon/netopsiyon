@@ -5,9 +5,9 @@
 
 - 📝 Düzenli olarak NetOpsiyon üzerinde makaleler yazıyorum.
 
-- 💬 Bana HTML/HTML5, CSS/CSS3, JavaScript, Ajax, jQuery, PHP, MySQL, PostgreSQL, Bootstrap, XML, JSON, Linux (Ubuntu, Debian, Redhat, OracleLinux vb.), Sunucu Yönetimi konularında sorularınızı sorabilirsiniz.
+- 💬 Bana **HTML/HTML5, CSS/CSS3, JavaScript, Ajax, jQuery, PHP, MySQL, PostgreSQL, Bootstrap, XML, JSON, Linux (Ubuntu, Debian, Redhat, OracleLinux vb.), Sunucu Yönetimi** konularında sorularınızı sorabilirsiniz.
 
-- 📫 Bana ulaşmak için: ben@aliosman.com.tr
+- 📫 Bana ulaşmak için: **ben@aliosman.com.tr**
 
 - 📄 Deneyimlerim hakkında bilgi almak için: [https://www.aliosman.com.tr](https://www.aliosman.com.tr)
 
