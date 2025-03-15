@@ -1,7 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Ali Osman KAHRAMAN</h1>
-<h1 align="center">Hi 👋, I'm Ali Osman KAHRAMAN</h1>
-<h3 align="center">Türkiye’den Tutkulu Bir Full-Stack Geliştirici
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">Türkiye’den Tutkulu Bir Full-Stack Geliştirici</h3>
 
 - 🌱 Şu anda React, Python, Kotlin, .NET öğreniyorum.
 
@@ -12,6 +10,9 @@
 - 📫 Bana ulaşmak için: ben@aliosman.com.tr
 
 - 📄 Deneyimlerim hakkında bilgi almak için: [https://www.aliosman.com.tr](https://www.aliosman.com.tr)
+
+<h1 align="center">Hi 👋, I'm Ali Osman KAHRAMAN</h1>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 - 🌱 I’m currently learning **React, Python, Kotlin, .Net**
 
