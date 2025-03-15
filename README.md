@@ -3,7 +3,7 @@
 
 - 🌱 Şu anda React, Python, Kotlin, .NET öğreniyorum.
 
-- 📝 Düzenli olarak NetOpsiyon üzerinde makaleler yazıyorum.
+- 📝 Düzenli olarak [https://www.netopsiyon.com](https://www.netopsiyon.com) üzerinde makaleler yazıyorum.
 
 - 💬 Bana **HTML/HTML5, CSS/CSS3, JavaScript, Ajax, jQuery, PHP, MySQL, PostgreSQL, Bootstrap, XML, JSON, Linux (Ubuntu, Debian, Redhat, OracleLinux vb.), Sunucu Yönetimi** konularında sorularınızı sorabilirsiniz.
 
