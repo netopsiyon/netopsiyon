@@ -1,22 +1,24 @@
 Hi, I’m Ali Osman Kahraman 👋
 
-Backend systems & web architecture focused developer.
-I design and maintain production-oriented PHP applications and Linux-based infrastructures.
+I’m a backend developer and system-oriented web architect focused on building
+production-ready PHP applications and Linux-based infrastructures.
 
-### Focus Areas
-- Backend Architecture (PHP, MySQL / MariaDB, PostgreSQL)
-- Linux Systems & Server Operations
-- SEO-friendly, high-performance web applications
-- Custom CMS & API design (WordPress-compatible where needed)
+## What I work on
+- Backend architecture with PHP
+- Relational databases (MySQL / MariaDB, PostgreSQL)
+- Linux server operations and automation
+- SEO-friendly, maintainable web platforms
+- Custom CMS and API design (WordPress-compatible where needed)
 
-### What I care about
-- Predictable systems over hype
-- Readable code over clever code
-- Stability, maintainability, and long-term operation
+## How I think
+- Stability over hype
+- Readable code over clever tricks
+- Long-term maintainability over short-term speed
 
-### Writing & Projects
-- Technical articles: https://www.netopsiyon.com
+## Writing & projects
+- Technical articles and real-world system notes: https://www.netopsiyon.com
 - Personal site & portfolio: https://www.aliosman.com.tr
 
-If you’re reviewing this profile, repositories are intentionally limited and curated.
-Each project exists to demonstrate architectural decisions, not just code samples.
+Repositories here are intentionally limited and curated.
+Each project exists to demonstrate architectural decisions and production thinking,
+not just isolated code snippets.
